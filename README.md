@@ -3,7 +3,7 @@
 <h1 align="center">Hola👋, Mi nombre es Ignacio Melgarejo</h1>
 <h2 align="center">Full Stack Developer Argentino</h2>
 <h3 align="left">¿Quien Soy?</h3>
-<p align="left">Soy full stack developer y estudiante de la carrera Tecnicatura en Programación. Mi experiencia se basa en proyectos desde pequeñas aplicaciones, hasta sitios web complejos utilizando JavaScript, NodeJS, Express, React, Redux, SQL, entre otras tecnologías. </p>
+<p align="left">Soy full stack developer y estudiante de la carrera universitaria Tecnicatura en Programación. Mi experiencia se basa en proyectos desde pequeñas aplicaciones, hasta sitios web complejos utilizando JavaScript, NodeJS, Express, React, Redux, SQL, entre otras tecnologías. </p>
 
 <h3 align="left">¿Que hago?</h3>
  <p aling="left">Actualmente me dedico a trabajar en proyectos tanto individuales como grupales con el objetivo de avanzar en mi formación como programador y poder crecer profesionalmente.</p>
